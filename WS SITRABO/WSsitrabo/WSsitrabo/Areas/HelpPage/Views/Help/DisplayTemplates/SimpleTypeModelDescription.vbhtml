@@ -1,0 +1,3 @@
+@Imports WSsitrabo.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation

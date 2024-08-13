@@ -1,0 +1,5 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `eliTablaADPV`(
+    )
+BEGIN
+	TRUNCATE TABLE ADPV;
+END
